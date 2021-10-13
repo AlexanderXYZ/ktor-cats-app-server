@@ -1,0 +1,1 @@
+rootProject.name = "com.buslaev.ktor-cats-app"
